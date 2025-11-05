@@ -1,4 +1,4 @@
 #EXT-X-VERSION:3
 #EXT-X-S#EXTM3U
 TREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=1536637&extension=ts&play_token=4LNy0cx81F
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=1536637&extension=m3u8
