@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776045&extension=m3u8
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=m3u8
+https://e113.neoistheone.online:9313/v5/ujDArnSUXTjrcjB0LFUJhA/1763002927/14e25c8bbebe932a938b6fbfaddd19aa/sNB-HwhXilqhnpL2S5TqmQ/1763013607/live/vx-origin/sd-explife_720/chunks.m3u8
