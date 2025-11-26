@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=303706&extension=m3u8
+http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
